@@ -58,5 +58,17 @@ Do players put in more hours weekly as they get older or less?
 
 
 Here I have analysed blank using a box plot
- ![Image](https://github.com/user-attachments/assets/999ae87d-fa82-4097-99cf-d6a7ce29dff8) 
+![Image](https://github.com/user-attachments/assets/999ae87d-fa82-4097-99cf-d6a7ce29dff8) 
+
+![Image](https://github.com/user-attachments/assets/e22c25b4-de89-4d25-9cfb-fd10aebeaebf)
+
+![Image](https://github.com/user-attachments/assets/ee21acbd-2f2a-42df-8474-132e3803b558)
+
+![Image](https://github.com/user-attachments/assets/b1b115ac-3a1f-43dc-9a4b-4a335a39f5ce)
+
+![Image](https://github.com/user-attachments/assets/166bd554-f36a-44b1-909d-f0da314604c1)
+
+![Image](https://github.com/user-attachments/assets/226a09a7-72d1-4a4d-ba9e-f887c9a3c0ea)
+
+![Image](https://github.com/user-attachments/assets/e7a514d9-9a36-4531-88a8-ba8887e638c3)
 
