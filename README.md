@@ -1,10 +1,10 @@
 # Data Analyst
 
-### Education
+## Education
 Nottingham Trent University (2018-2021)
 BA Economics with International Finance and Banking
 
-### Work Experience
+## Work Experience
 Group Analytics & Insights Business Partner -
 Watches of Switzerland Group, November 2024 – Present
 
@@ -16,7 +16,7 @@ Watches of Switzerland Group, November 2022 – March 2024
 
 
 
-### Portfolio
+## Portfolio
 
 Player Behaviour Analysis in Gaming
 
