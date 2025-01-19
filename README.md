@@ -18,11 +18,30 @@ Watches of Switzerland Group, November 2022 – March 2024
 
 ### Portfolio
 
-Data Analysis of Gaming Behaviour Dataset
+Player Behaviour Analysis in Gaming
 
 Source: https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset
 
 Overview:  This dataset was Synthetically produced for Educational purposes.
+
+This project focuses on analysing a simulated dataset of user data within gaming. From this analysis I will look to extract valuable insight that and use it to recommend actionable decisions.
+
+This dataset includes a range of gameplay metrics and demographic information, as listed below:
+
+-Age
+-Gender
+-Game Genre Preferences
+-Weekly Playtime (derived from average game session length, and sessions played weekly)
+-In game purchase activity
+-Game Difficulty
+-Achievements Unlocked
+-Time of day preference
+-Geographic location
+-Player Level
+
+The data analysis I will use combines both descriptive and predictive modelling techniques such as Linear Regression to examine the relationship between Age and playtime per week.
+
+Pl
 
 
 Here I have analysed blank using a box plot
