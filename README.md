@@ -49,11 +49,11 @@ The data analysis I will use combines both descriptive and predictive modelling 
 - Identified and removal of duplicates
 - Converting all columns to suitable data types in order to avoid causing any issues in calculations during analysis
 - Standardising and trimming string variables, decimal places
-- Data validation for relevant columns, negative hours played, negative age etc
+- Data validation and removal of invalid data for relevant columns, negative hours played, age within 1-100, negative player levelnot expected result etc
 
 ### Analysis
 
-
+Do players put in more hours weekly as they get older or less?
 
 
 
