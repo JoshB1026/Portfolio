@@ -40,9 +40,8 @@ This dataset includes a range of gameplay metrics and demographic information, a
 
 The data analysis I will use combines both descriptive and predictive modelling techniques such as Linear Regression to examine the relationship between Age and playtime per week. The project also employs the use of key visualisations that portray the trends between player activity, genre popularity and players level progression across a range of demographics.
 
+## Data Cleansing and Preperation
 
-
-Pl
 
 
 Here I have analysed blank using a box plot
