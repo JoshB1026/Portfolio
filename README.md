@@ -24,7 +24,7 @@ Source: https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-beh
 
 Overview:  This dataset was Synthetically produced for Educational purposes.
 
-## Introduction:
+### Introduction:
 
 This project focuses on analysing a simulated dataset of user data within gaming. From this analysis I will look to extract valuable insight that and use it to recommend actionable decisions.
 
@@ -43,6 +43,17 @@ This dataset includes a range of gameplay metrics and demographic information, a
 The data analysis I will use combines both descriptive and predictive modelling techniques such as Linear Regression to examine the relationship between Age and playtime per week. The project also employs the use of key visualisations that portray the trends between player activity, genre popularity and players level progression across a range of demographics.
 
 ### Data Cleansing and Preperation
+
+- Data sourced and imported from kaggle.com
+- Removed blanks, NaN and Null entries from dataset
+- Identified and removal of duplicates
+- Converting all columns to suitable data types in order to avoid causing any issues in calculations during analysis
+- Standardising and trimming string variables, decimal places
+- Data validation for relevant columns, negative hours played, negative age etc
+
+### Analysis
+
+
 
 
 
