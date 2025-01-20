@@ -74,15 +74,16 @@ The actionable insight I would drive from this is the distribution of the late g
 
 ![Image](https://github.com/user-attachments/assets/166bd554-f36a-44b1-909d-f0da314604c1)
 
+Hi
+
+![Image](https://github.com/user-attachments/assets/ee21acbd-2f2a-42df-8474-132e3803b558)
+
 _How much does genre affect the age demographic of the playerbase?_
 
 Using a boxplot, we can see very even and similar distribution across each of the 5 genres listed, with mean average age being around 32-33 years old across the board matching the median. With 50% of players sitting between 23-42 years old. The youngest age is 15 years old, and oldest being 48 these represent the realstic range of age.
 
 Across this data, there is very little difference between genres, with very even distributions, with only slightly smaller interquartile ranges within Simulation games and action which might suggest that there is a particular high proportion of the playerbase within a very particular age range, being 24-42 but is likely smaller than that.
 If there were significant differences, for example a mean (black dot) far younger in sports than the other genres, we could infer that there is a strong younger audience making up the playerbase. Actionable insight from this might take one of two directions either you focus further priority on the same age range that is working or trying and drive engagement with some of the more underrepresented demographics. For example, if you have a young player base, you might invest more into driving ads through mobile phone content, such as TikTok, instagram, youtube to get an influx of new players, from a proven demographic. 
-
-![Image](https://github.com/user-attachments/assets/ee21acbd-2f2a-42df-8474-132e3803b558)
-
 
 ![Image](https://github.com/user-attachments/assets/999ae87d-fa82-4097-99cf-d6a7ce29dff8) 
 
