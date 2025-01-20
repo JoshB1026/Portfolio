@@ -91,7 +91,7 @@ If there were significant differences, for example a mean (black dot) far younge
 
 ![Image](https://github.com/user-attachments/assets/999ae87d-fa82-4097-99cf-d6a7ce29dff8) 
 
-Where are the key geographical locations?
+_Where are the key geographical locations?_
 
 The doughnut chart shows that 40% of the playerbase is from the USA, 30% from Europe, 20% Asia and 9.83% residing else where in the world. On the righthand side chart, there is a column chart of the total ingame purchases made, split out by location and game genre. Following suit from the size of the playerbase, we have over 600 players purchasing in game content, across each genre in the USA with around 450 across the European genres.
 
@@ -101,3 +101,5 @@ An interesting further analysis that would be both interesting and could drive a
 
 ![Image](https://github.com/user-attachments/assets/26312ce4-c86c-471b-9c2a-735d36039b7a)
 
+This analysis provides insight into player behaviour in the gaming space, as well as engagement across several key factors such as age, playtime, location and level progression. Insights regarding age and playtime may offer some direction on when and how to target certain age groups, I have also illustrated how smoother progression and pacing within games might help drive engagement. The findings also suggest oppurtunities in underrepresented regions that could benefit from regional events and language support. 
+Overall despite the use of synethic data, this project showcases how valuable analysis this data can be, and barely scratches the surface on the oppurtunities and insights that are going under utilised. Data can and should be integral to decision making, enhancing player engagement and highlight growth oppurtunities. 
