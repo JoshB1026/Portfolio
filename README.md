@@ -34,8 +34,6 @@ This dataset includes a range of gameplay metrics and demographic information, a
 - Game Genre Preferences
 - Weekly Playtime (derived from average game session length, and sessions played weekly)
 - In game purchase activity
-- Game Difficulty
-- Achievements Unlocked
 - Time of day preference
 - Geographic location
 - Player Level
