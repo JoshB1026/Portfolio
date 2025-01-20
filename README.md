@@ -93,6 +93,11 @@ If there were significant differences, for example a mean (black dot) far younge
 
 Where are the key geographical locations?
 
+The doughnut chart shows that 40% of the playerbase is from the USA, 30% from Europe, 20% Asia and 9.83% residing else where in the world. On the righthand side chart, there is a column chart of the total ingame purchases made, split out by location and game genre. Following suit from the size of the playerbase, we have over 600 players purchasing in game content, across each genre in the USA with around 450 across the European genres.
+
+With a large majority of the players residing from the USA, and a large portion of sales we can derive that the USA will remain a priority location that is well established across all genres, with strategy games leading the way.
+I would suggest that despite Europe and the USA representing 70% of the playerbase. This still leaves almost a 1/3 of the world, and there is a large untapped population to grow a playerbase in. It's possible that small investments in creating better language support, and accessibility for these regions could yield a large influx of players for a relatively simple quality of life improvement. This could be paired with events run regionally that could include purchasable ingame content themed with such an event. 
+An interesting further analysis that would be both interesting and could drive a lot of actionable insights is for each game, the sales of each item, and their performance regionally as there could be large geographical bias' towards certain content. 
 
 ![Image](https://github.com/user-attachments/assets/26312ce4-c86c-471b-9c2a-735d36039b7a)
 
