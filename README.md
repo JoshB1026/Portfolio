@@ -101,5 +101,6 @@ An interesting further analysis that would be both interesting and could drive a
 
 ![Image](https://github.com/user-attachments/assets/26312ce4-c86c-471b-9c2a-735d36039b7a)
 
+### Conclusion
 This analysis provides insight into player behaviour in the gaming space, as well as engagement across several key factors such as age, playtime, location and level progression. Insights regarding age and playtime may offer some direction on when and how to target certain age groups, I have also illustrated how smoother progression and pacing within games might help drive engagement. The findings also suggest oppurtunities in underrepresented regions that could benefit from regional events and language support. 
 Overall despite the use of synethic data, this project showcases how valuable analysis this data can be, and barely scratches the surface on the oppurtunities and insights that are going under utilised. Data can and should be integral to decision making, enhancing player engagement and highlight growth oppurtunities. 
