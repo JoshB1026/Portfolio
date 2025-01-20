@@ -91,9 +91,8 @@ If there were significant differences, for example a mean (black dot) far younge
 
 ![Image](https://github.com/user-attachments/assets/999ae87d-fa82-4097-99cf-d6a7ce29dff8) 
 
-_Where are the key geographical locations?
+Where are the key geographical locations?
 
 
-
-![Image](https://github.com/user-attachments/assets/5f8a5271-c6b0-4aec-9080-ff4a8ee6ebf9)
+![Image](https://github.com/user-attachments/assets/26312ce4-c86c-471b-9c2a-735d36039b7a)
 
