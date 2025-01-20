@@ -53,7 +53,7 @@ The data analysis I will use combines both descriptive and predictive modelling 
 
 ### Analysis
 
-Do players put in more hours weekly as they get older or less?
+_Do players put in more hours weekly as they get older or less?_
 
 
 
