@@ -77,7 +77,8 @@ The actionable insight I would drive from this is the distribution of the late g
 _What time of day do users play?_
 
 I've used a histogram to illustrate concurrent players during the 24 hour period of the day by hour. Within this data it shows an up and down but steady playercount throughout the day and night with around 1600-1700 players concurrently logged in. However we can also see a steep drop off between 23:00 and 01:00. 
-Consistency throughout the day is great to see, and could suggest a healthy switch over between different regions logging in to play, so as one region logs off, another takes its place. There is 
+Consistency throughout the day is great to see, and could suggest a healthy switch over between different regions logging in to play, so as one region logs off, another takes its place. The obvious outlier is between 23:00 and 01:00, this suggests a small window of a large amount of the users logging off and not being replaced. 
+This would be more challenging to resolve, as player habits and timezones play a far stronger impact on those decisions. You could run events in this window, to try and engage players, however I would actually argue that there is nothing unhealthy about this cool off period as it seems very consistent during the rest of the the 24 hour period. Instead this would be the ideal time to plan maintenance and downtime of the game which would run with the lowest interferance and disruptance to the majority of the users.
 
 
 ![Image](https://github.com/user-attachments/assets/a5fe39f8-6860-4d30-b958-0fa581af048a)
