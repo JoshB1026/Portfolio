@@ -91,7 +91,7 @@ If there were significant differences, for example a mean (black dot) far younge
 
 ![Image](https://github.com/user-attachments/assets/999ae87d-fa82-4097-99cf-d6a7ce29dff8) 
 
-![Image](https://github.com/user-attachments/assets/e22c25b4-de89-4d25-9cfb-fd10aebeaebf)
+
 
 ![Image](https://github.com/user-attachments/assets/226a09a7-72d1-4a4d-ba9e-f887c9a3c0ea)
 
