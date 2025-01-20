@@ -55,9 +55,22 @@ The data analysis I will use combines both descriptive and predictive modelling 
 
 _Do players put in more hours weekly as they get older or less?_
 
+After plotting age and hours weekly data onto a scatter graph, I ran a linear regression to find out the relationship between the two variables.
+Older players tend to spend slightly more time per week than younger players, however with a slope of 0.15 this is not dramatic. This is supported by a covariance of 14.96, which suggests that there is a significant amount of variability between individuals, so although there is a correlation, there will also be many cases of younger players playing more than older players.
+These results could be driven by a number of external factors such as young adults being restricted by parental supervision and a higher focus on schooling, school clubs etc.
 
+To drive action from these results, I would look to suggest if we can establish higher engagement with the younger audience, whether this is through time rewarding features such as season passes, daily challenges, daily log in events. This would also give the older audience oppurtunities to recieve loyalty rewards from their increased playtime.
 
 ![Image](https://github.com/user-attachments/assets/b1b115ac-3a1f-43dc-9a4b-4a335a39f5ce)
+
+_Are the majority of the playerbase remaining engaged?_
+
+Below i have plotted a line chart that displays player level on the X axis, and a cumulative percentage of the total playerbase on the Y axis. As we can see there is a fairly linear relationship between the two variables, which shows that there is a steady amount of users progressing at all levels.
+With the references lines I've placed, we can see that 50% of the player base are below level 50, and the other 50% above. We can also see that only 10% of the players are surpassing level 84.
+
+This shows a relatively healthy climb in playerbase progression, however these would be key metrics to look at when developing content for the games in question. For example if the late game content is some of the best, then are you happy with only 10% of players experiencing that content, or should it be balanced, or made easier to get to. Similar to this, you could use this visualisation and data to try and obtain areas in which a large portion of the playerbase might switch off or be stuck on. As this is synethetic data, are more realistic look for this line would be more likely to be stepped, with the smaller steps indicating that there are no large sticking points.
+
+The actionable insight I would drive from this is the distribution of the late game content, and how easy it is to get to. I would suggest that the bottom 50% be as smooth of a line as possible, to not deter new players from entering the game, and that they might stay more engaged if they feel quick progression.
 
 ![Image](https://github.com/user-attachments/assets/166bd554-f36a-44b1-909d-f0da314604c1)
 
