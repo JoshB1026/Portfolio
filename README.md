@@ -49,7 +49,7 @@ The data analysis I will use combines both descriptive and predictive modelling 
 - Identified and removal of duplicates
 - Converting all columns to suitable data types in order to avoid causing any issues in calculations during analysis
 - Standardising and trimming string variables, decimal places
-- Data validation and removal of invalid data for relevant columns, negative hours played, age within 1-100, negative player levelnot expected result etc
+- Data validation and removal of invalid data for relevant columns, negative hours played, age within 1-100, negative player level not expected result etc
 
 ### Analysis
 
@@ -74,9 +74,14 @@ The actionable insight I would drive from this is the distribution of the late g
 
 ![Image](https://github.com/user-attachments/assets/166bd554-f36a-44b1-909d-f0da314604c1)
 
-Hi
+_What time of day do users play?_
 
-![Image](https://github.com/user-attachments/assets/ee21acbd-2f2a-42df-8474-132e3803b558)
+I've used a histogram to illustrate concurrent players during the 24 hour period of the day by hour. Within this data it shows an up and down but steady playercount throughout the day and night with around 1600-1700 players concurrently logged in. However we can also see a steep drop off between 23:00 and 01:00. 
+Consistency throughout the day is great to see, and could suggest a healthy switch over between different regions logging in to play, so as one region logs off, another takes its place. There is 
+
+
+![Image](https://github.com/user-attachments/assets/a5fe39f8-6860-4d30-b958-0fa581af048a)
+
 
 _How much does genre affect the age demographic of the playerbase?_
 
